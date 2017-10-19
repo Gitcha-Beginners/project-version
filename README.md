@@ -1,6 +1,6 @@
 # project-version
-> 프로젝트 생성시 규칙 
-> prj-[platform]-[version]
+> 프로젝트 생성시 규칙   
+> prj-[platform]-[version] 규칙을 지킨다.
 
 
 ### 별자리 순서 
